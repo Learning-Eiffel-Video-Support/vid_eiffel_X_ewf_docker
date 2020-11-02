@@ -28,4 +28,4 @@ ENTRYPOINT ["wine"]
 CMD ["hello.exe"]
 
 # BUILD: docker build --tag:ewfdockerhello:1.0 .
-# RUN: docker run --publish 9999:9999 --detach docker.io/library/ewfdockerhello:1.0
+# RUN:   docker run --publish 9999:9999 --detach docker.io/library/ewfdockerhello:1.0
