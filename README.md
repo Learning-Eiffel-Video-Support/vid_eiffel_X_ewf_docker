@@ -1,4 +1,4 @@
-# vid_eiffel_X_ewf_docker
+# Learning Eiffel - EWF in Docker Experiment
 Eiffel Experiment - Putting an EWF Web App/Server in Docker
 
 This is three files used in the making of the Learning Eiffel video found at: https://youtu.be/DxFVSR59gkU
